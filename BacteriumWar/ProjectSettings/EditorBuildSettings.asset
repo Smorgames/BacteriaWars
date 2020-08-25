@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: ee0674685dc5ce44f97e2e6382bc0ffd
+  - enabled: 1
+    path: Assets/Scenes/Body.unity
+    guid: b47490248773bf544912ee145fa00471
+  - enabled: 1
+    path: Assets/Scenes/Arms.unity
+    guid: 32bd845d39ff61c41a45c7c815beb078
+  - enabled: 1
+    path: Assets/Scenes/Head.unity
+    guid: 4590735d7109172449f239af724f88ba
+  - enabled: 1
+    path: Assets/Scenes/LeftFoot.unity
+    guid: 48813adc150fdbe429bc6e3fb71e3d23
+  - enabled: 1
+    path: Assets/Scenes/LeftHand.unity
+    guid: 303f494d9e07d344ba706bde4cc12e4a
+  - enabled: 1
+    path: Assets/Scenes/Legs.unity
+    guid: 0c264fb08f4c1d34c8be8731ddba99e9
+  - enabled: 1
+    path: Assets/Scenes/RightFoot.unity
+    guid: d700795df9d12d6439bd2322d8d44178
+  - enabled: 1
+    path: Assets/Scenes/RightHand.unity
+    guid: 6e4a32581a0baae4c9e2f961115bacd4
+  - enabled: 1
+    path: Assets/Scenes/Tounge.unity
+    guid: 3c25c3ef1a084b744b766d5a2f7a4ccc
+  m_configObjects: {}

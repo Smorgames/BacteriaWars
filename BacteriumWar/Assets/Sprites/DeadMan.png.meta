@@ -1,0 +1,668 @@
+fileFormatVersion: 2
+guid: edb959371fc67544caef10f255154912
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2810569668708979695
+    second: DeadMan_0
+  - first:
+      213: 5620844233514917464
+    second: DeadMan_1
+  - first:
+      213: 8763090984974571515
+    second: DeadMan_2
+  - first:
+      213: -478940260348517764
+    second: DeadMan_3
+  - first:
+      213: 3698386544312995729
+    second: DeadMan_4
+  - first:
+      213: -7923270640082804495
+    second: DeadMan_5
+  - first:
+      213: -5117174155039901233
+    second: DeadMan_6
+  - first:
+      213: 5871822726236944580
+    second: DeadMan_7
+  - first:
+      213: 7134474078195067197
+    second: DeadMan_8
+  - first:
+      213: -3902749107690851745
+    second: DeadMan_9
+  - first:
+      213: -3092016575468249642
+    second: DeadMan_10
+  - first:
+      213: 2391125546671316558
+    second: DeadMan_11
+  - first:
+      213: 5805855026306856409
+    second: DeadMan_12
+  - first:
+      213: -6626638527403376698
+    second: DeadMan_13
+  - first:
+      213: -7309507370319581629
+    second: DeadMan_14
+  - first:
+      213: -6596842233683195093
+    second: DeadMan_15
+  - first:
+      213: -1522223954868459864
+    second: DeadMan_16
+  - first:
+      213: -4272269752175532551
+    second: DeadMan_17
+  - first:
+      213: 6132362776769144573
+    second: DeadMan_18
+  - first:
+      213: 6076587739593065850
+    second: DeadMan_19
+  - first:
+      213: -7054914548695796288
+    second: DeadMan_20
+  - first:
+      213: 6916856906796089365
+    second: DeadMan_21
+  - first:
+      213: 5566870712225830464
+    second: DeadMan_22
+  - first:
+      213: -5290331322399500535
+    second: DeadMan_23
+  - first:
+      213: 97256092243754022
+    second: DeadMan_24
+  - first:
+      213: 3930739556771553317
+    second: DeadMan_25
+  - first:
+      213: 7627185418210817858
+    second: DeadMan_26
+  - first:
+      213: 465042352266665597
+    second: DeadMan_27
+  - first:
+      213: 5108020968100907476
+    second: DeadMan_28
+  - first:
+      213: -6069931444261369381
+    second: DeadMan_29
+  - first:
+      213: 7912336078600532290
+    second: DeadMan_30
+  - first:
+      213: -8355646960589674524
+    second: DeadMan_31
+  - first:
+      213: -2326437268246592213
+    second: DeadMan_32
+  - first:
+      213: -5132216508536175656
+    second: DeadMan_33
+  - first:
+      213: 8738369343560931309
+    second: DeadMan_34
+  - first:
+      213: 4197972625382811303
+    second: DeadMan_35
+  - first:
+      213: 4646647097466749892
+    second: DeadMan_36
+  - first:
+      213: -7763315177055053327
+    second: DeadMan_37
+  - first:
+      213: -5409267257555134369
+    second: DeadMan_38
+  - first:
+      213: -1886345494187807069
+    second: DeadMan_39
+  - first:
+      213: -6180922162269736999
+    second: DeadMan_40
+  - first:
+      213: 4004207304775884832
+    second: DeadMan_41
+  - first:
+      213: -6822634270445760977
+    second: DeadMan_42
+  - first:
+      213: 5439669557752230710
+    second: DeadMan_43
+  - first:
+      213: -2186566807669518865
+    second: DeadMan_44
+  - first:
+      213: 6167827947302959378
+    second: DeadMan_45
+  - first:
+      213: 4694843118356919328
+    second: DeadMan_46
+  - first:
+      213: 8605247418732847262
+    second: DeadMan_47
+  - first:
+      213: -8790075085322329961
+    second: DeadMan_48
+  - first:
+      213: 1418678446989642911
+    second: DeadMan_49
+  - first:
+      213: -434067820340666167
+    second: DeadMan_50
+  - first:
+      213: -6075782899170582533
+    second: DeadMan_51
+  - first:
+      213: 1900964709765959084
+    second: DeadMan_52
+  - first:
+      213: 2930293285252159894
+    second: DeadMan_53
+  - first:
+      213: -3104177690935456131
+    second: DeadMan_54
+  - first:
+      213: 560075960860948433
+    second: DeadMan_55
+  - first:
+      213: -6318191193818235749
+    second: DeadMan_56
+  - first:
+      213: -1830610393436327323
+    second: DeadMan_57
+  - first:
+      213: 4493320159471614792
+    second: DeadMan_58
+  - first:
+      213: 8981308074649421413
+    second: DeadMan_59
+  - first:
+      213: -3130086951948156565
+    second: DeadMan_60
+  - first:
+      213: -5343967792605223489
+    second: DeadMan_61
+  - first:
+      213: -4487989434313716122
+    second: DeadMan_62
+  - first:
+      213: 1695111119457994328
+    second: DeadMan_63
+  - first:
+      213: -6966159566131895678
+    second: DeadMan_64
+  - first:
+      213: 4797144368264498845
+    second: DeadMan_65
+  - first:
+      213: 3443321201599891883
+    second: DeadMan_66
+  - first:
+      213: -8120502322110908041
+    second: DeadMan_67
+  - first:
+      213: -2014023606877198363
+    second: DeadMan_68
+  - first:
+      213: 9172220832966657786
+    second: DeadMan_69
+  - first:
+      213: 7316388329107401557
+    second: DeadMan_70
+  - first:
+      213: 5709783614545221575
+    second: DeadMan_71
+  - first:
+      213: -5383407019965309960
+    second: DeadMan_72
+  - first:
+      213: -6315894968153322612
+    second: DeadMan_73
+  - first:
+      213: 7762211467763316109
+    second: DeadMan_74
+  - first:
+      213: 1058137772594628348
+    second: DeadMan_75
+  - first:
+      213: -7739174238147000644
+    second: DeadMan_76
+  - first:
+      213: 7799503930400851905
+    second: DeadMan_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeadMan_0
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 139
+        width: 1327
+        height: 2265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c2d1007c9def8d0800000000000000
+      internalID: -2810569668708979695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadMan_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1627
+        width: 504
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e9574cc00410e40800000000000000
+      internalID: 5620844233514917464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadMan_2
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2252
+        width: 224
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf756dd62d0cc9970800000000000000
+      internalID: 8763090984974571515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadMan_3
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1880
+        width: 461
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c722b49ee567a59f0800000000000000
+      internalID: -478940260348517764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadMan_4
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 2075
+        width: 241
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f4cd797fe435330800000000000000
+      internalID: 3698386544312995729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadMan_5
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1889
+        width: 273
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f025960553ea0290800000000000000
+      internalID: -7923270640082804495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadMan_6
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 2072
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9790bc7352cf8b0800000000000000
+      internalID: -5117174155039901233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadMan_7
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1607
+        width: 211
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c83b65c8a7ec7150800000000000000
+      internalID: 5871822726236944580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadMan_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1152
+        width: 320
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39ac02cf5eb20360800000000000000
+      internalID: 7134474078195067197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadMan_9
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1152
+        width: 240
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f523d9c3d56a6d9c0800000000000000
+      internalID: -3902749107690851745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadMan_12
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 0
+        width: 786
+        height: 657
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5bf6cb26a829050800000000000000
+      internalID: 5805855026306856409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadMan_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 222
+        width: 309
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf34376e537904a0800000000000000
+      internalID: -6626638527403376698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadMan_14
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 67
+        width: 121
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e600d26c96f8a90800000000000000
+      internalID: -7309507370319581629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeadMan_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 495
+        width: 946
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c74ecb40876d3c60800000000000000
+      internalID: 7799503930400851905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
